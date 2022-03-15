@@ -2,7 +2,7 @@
 
 """
 Short python script to deploy CloudFormation templates.
-See README.md for usage.
+See README.md for usage
 
 Created: Wed Dec 16 10:59:26 PST 2015
 Author: c.mutzel@f5.com, a.applebaum@f5.com
