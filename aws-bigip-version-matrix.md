@@ -1,4 +1,4 @@
-## Version Matrix for AWS CFT Templates
+## Version Matrix for AWS CFT Template
 The following table contains all of the tagged releases of the F5 Cloud Formation Templates (CFTs) for Amazon AWS, and the corresponding BIG-IP versions, license types and throughput levels available for a specific tagged release.  To view a Tag, from the f5-aws-cloudformation repo (https://github.com/F5Networks/f5-aws-cloudformation/ or a sub directory), click the Branch < current branch > button, and then click the *Tags* tab.  You see a list of all of the F5 tagged releases.
 
 | Release Tag | Template Family | BIG-IP Versions | BIG-IQ version | PAYG License Bundles and Throughput | BYOL/BIG-IQ Image options (v13.1.1 and later) |
